@@ -87,5 +87,5 @@ To access these documents:
 
 ---
 
-For additional resources and up-to-date planning, refer to [Notion page](https://www.notion.so/Getting-Started-187f2506fdf380a3a55ace9ca6915dde) for team collaboration, project management, and detailed instructions.
+For additional resources and up-to-date planning, refer to [Notion page](https://www.notion.so/initBuild-Web-Dev-187d075b7d718072bd49cf3aa65f65a2) for team collaboration, project management, and detailed instructions.
 
