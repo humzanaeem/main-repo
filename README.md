@@ -75,15 +75,8 @@ The `docs/` folder contains essential documentation for the CreatorsFIU project:
 To access these documents:
 1. Navigate to the `docs/` folder in the repository.
 2. Open the respective file to view or edit.
-3. For any updates, ensure proper version control by committing your changes.
-
-### **Quick Links**
-- [Architecture Diagram](docs/architecture-diagram.png)
-- [Design Plan](docs/design-plan.md)
-- [Contribution Guide](docs/contribution-guide.md)
-- [Team Notes](docs/team-notes.md)
-- [Style Guide](docs/style-guide.md)
-- [Assets Folder](docs/assets/)
+3. For any updates, ensure proper version control by committing your changes.<br>
+[Needs to create]
 
 ---
 
