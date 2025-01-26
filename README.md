@@ -45,6 +45,8 @@ main-repo/
 │   ├── design-plan.md             # Platform design details
 │   ├── contribution-guide.md      # How to contribute to the project
 │   └── team-notes.md              # Meeting notes and progress updates
+│   └── style-guide.md.md          # File for typography, colors, design rules
+│   └── assets/             # Folders for images, logos, icons
 └── README.md              # Project overview and guidelines
 
 ```
@@ -64,6 +66,12 @@ The `docs/` folder contains essential documentation for the CreatorsFIU project:
 - **`team-notes.md`**  
   Meeting notes and updates about the project’s progress, team discussions, and decisions.
 
+- **`style-guide.md`**  
+  A detailed guide on typography, colors, and overall design rules to ensure consistency across the platform.
+
+- **`assets/`**  
+  A folder containing images, logos, and icons used throughout the platform.
+
 To access these documents:
 1. Navigate to the `docs/` folder in the repository.
 2. Open the respective file to view or edit.
@@ -74,8 +82,10 @@ To access these documents:
 - [Design Plan](docs/design-plan.md)
 - [Contribution Guide](docs/contribution-guide.md)
 - [Team Notes](docs/team-notes.md)
+- [Style Guide](docs/style-guide.md)
+- [Assets Folder](docs/assets/)
 
 ---
 
-For additional resources and up-to-date planning, refer to our [Notion page](https://www.notion.so/Getting-Started-187f2506fdf380a3a55ace9ca6915dde) for team collaboration, project management, and detailed instructions.
+For additional resources and up-to-date planning, refer to [Notion page](https://www.notion.so/Getting-Started-187f2506fdf380a3a55ace9ca6915dde) for team collaboration, project management, and detailed instructions.
 
