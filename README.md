@@ -7,6 +7,7 @@ Welcome to the main repository for **CreatorsFIU** – a virtual marketplace des
 ## **Table of Contents**
 1. [Purpose](#purpose)
 2. [Project Structure](#project-structure)
+3. [Docs](#docs)
 
 
 ---
@@ -45,3 +46,36 @@ main-repo/
 │   ├── contribution-guide.md      # How to contribute to the project
 │   └── team-notes.md              # Meeting notes and progress updates
 └── README.md              # Project overview and guidelines
+
+```
+## **Docs**
+
+The `docs/` folder contains essential documentation for the CreatorsFIU project:
+
+- **`architecture-diagram.png`**  
+  A visual representation of the system architecture, showing the interaction between the frontend, backend, database, and external APIs.
+
+- **`design-plan.md`**  
+  A detailed design document outlining the platform's layout, user flows, and technical specifications.
+
+- **`contribution-guide.md`**  
+  A step-by-step guide for contributors, covering how to fork the repo, create branches, and submit pull requests.
+
+- **`team-notes.md`**  
+  Meeting notes and updates about the project’s progress, team discussions, and decisions.
+
+To access these documents:
+1. Navigate to the `docs/` folder in the repository.
+2. Open the respective file to view or edit.
+3. For any updates, ensure proper version control by committing your changes.
+
+### **Quick Links**
+- [Architecture Diagram](docs/architecture-diagram.png)
+- [Design Plan](docs/design-plan.md)
+- [Contribution Guide](docs/contribution-guide.md)
+- [Team Notes](docs/team-notes.md)
+
+---
+
+For additional resources and up-to-date planning, refer to our [Notion page](#) for team collaboration, project management, and detailed instructions.
+
