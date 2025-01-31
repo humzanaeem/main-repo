@@ -78,6 +78,9 @@ To access these documents:
 3. For any updates, ensure proper version control by committing your changes.<br>
 [Needs to create]
 
+** Look into:
+[Amazon](https://www.amazon.com/)
+[Thinkific](https://www.thinkific.com/)
 ---
 
 For additional resources and up-to-date planning, refer to [Notion page](https://www.notion.so/initBuild-Web-Dev-187d075b7d718072bd49cf3aa65f65a2) for team collaboration, project management, and detailed instructions.
