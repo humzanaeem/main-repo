@@ -1,0 +1,99 @@
+/* Footer Section */
+footer {
+    background-color: #264a5a;
+    color: black;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Headings & Paragraphs in Footer */
+  footer h2 {
+    margin: 10px 0;
+    font-size: 32px;
+  }
+
+  /* Paragraph under dont miss out */
+  footer p {
+    margin: 10px 0;
+    font-size: large;
+  }
+  
+  /* Form & Newsletter Signup Section */
+  footer form {
+    margin: 20px auto;
+    max-width: 500px;
+  }
+  
+  /* Input Fields (Email and Date) Styling */
+  .email-input,
+  .date-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    width: calc(100% - 22px); /* Adjusting width to account for padding and border */
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  
+  /* Remove default date input icon/arrow (WebKit browsers) */
+  input[type="date"]::-webkit-inner-spin-button,
+  input[type="date"]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+  }
+  
+  /* Sign-Up Button Styling */
+  .sign-up-button {
+    padding: 10px 20px;
+    background-color: black;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Hover Effects */
+  .email-input:hover,
+  .date-input:hover {
+    background-color: #b5a642;
+  }
+  
+  .sign-up-button:hover {
+    background-color: #b5a642;
+  }
+  
+  /* Global Link Styling */
+  a {
+    color: black;
+    text-decoration: none;
+  }
+
+  /* adding a hover effect to link styling */
+  a:hover {
+    color: #b5a642;
+    text-decoration: underline;
+  }
+  
+  /* Optional: Spacing for links in footer sections */
+  footer a {
+    margin: 0 5px;
+  }
+  
+  /* Footer Navigation: Flex Container for Navigation Links */
+  .footer-nav {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+  
+  /* Remove list styling from footer navigation links */
+  footer ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  
